@@ -130,9 +130,16 @@ header {
 }
 .section5-text {
     width: 30%;
+    margin-left: 20px;
 }
 .section5-input {
+    margin: 50px;
     width: 35%;
+}
+.section5-img {
+    margin-top: 20px;
+    margin-right: 0;
+    width: 25%;
 }
 .section6 {
     width: 100%;

@@ -1,6 +1,8 @@
 
 body {
     margin: 0;
+    font-family: sans-serif;
+    line-height: 1.5;
 }
 header {
     background-color: lightblue;
@@ -83,7 +85,7 @@ header {
 .section3 {
     text-align: center;
     background-color: #5f60b2;
-    width: 600px;
+    width: 100%;
     padding: 10px;
 }
 .section3-menu {
@@ -95,6 +97,7 @@ header {
     padding: 5px;
     justify-content: center;
     color: white;
+    font-size: small;
 }
 .section3-menus a {
     color: white;
@@ -116,14 +119,52 @@ header {
 .section5 {
     justify-content: center;
     display: flex;
-    margin: 10px;
     background-color: #5f60b2;
     width: 100%;
     padding: 10px;
+    color: white;
 }
 .section5-text {
     width: 30%;
 }
 .section5-input {
     width: 35%;
+}
+.section6 {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    
+}
+.section6 li {
+    list-style: none;
+}
+.section6-mail {
+    width: 25%;
+}
+.section6-li1 {
+    width: 25%;
+}
+.section6-li2 {
+    width: 25%;
+}
+.section6-li3 {
+    width: 25%;
+}
+footer {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    border: 1px solid;
+    border-color: darkgray;
+}
+.copyright {
+    width: 50%;
+}
+.terms {
+    width: 50%;
+    display: flex;
+}
+.terms p {
+    padding: 5px 10px;
 }

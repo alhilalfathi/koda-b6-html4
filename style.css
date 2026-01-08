@@ -32,6 +32,7 @@ header {
 .nav-list li {
     font-size: smaller;
     padding: 5px 10px;
+    font-weight: bold;
 }
 .brand {
     position: relative;

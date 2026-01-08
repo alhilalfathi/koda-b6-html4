@@ -106,15 +106,19 @@ header {
     justify-content: center;
     display: flex;
     margin: 10px;
+    padding: 5px;
 }
 .section4-img {
     width: 30%;
+    padding: 10px;
 }
 .section4-text1 {
     width: 30%;
+    padding: 10px;
 }
 .section4-text2 {
     width: 30%;
+    padding: 10px;
 }
 .section5 {
     justify-content: center;
